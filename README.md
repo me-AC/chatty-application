@@ -1,5 +1,9 @@
 #  Full Stack Realtime Chat App
 
+### Live Application Link
+
+https://chatty-application-nz1w.onrender.com
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
@@ -20,7 +24,7 @@ CLOUDINARY_CLOUD_NAME=...
 CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 
-NODE_ENV=development
+NODE_ENV=development  // Don't use this variable during deployment on Render
 ```
 
 ### Build the app
